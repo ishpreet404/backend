@@ -1,0 +1,26 @@
+{
+  "name": "learn",
+  "version": "1.0.0",
+  "description": "basic app to deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishpreet404/backend.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Ishpreet",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ishpreet404/backend/issues"
+  },
+  "homepage": "https://github.com/ishpreet404/backend#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
